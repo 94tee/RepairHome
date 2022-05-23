@@ -1,6 +1,9 @@
 # repair_home
 
-A new Flutter project.
+A new Flutter project. This is the second Capstone projected for Side-Hustle 2022 intership programme. Contributors include:
+Emuze Isaiah - SH-IT-0131446 (myself)
+Emmanuel Adebayo - SH-IT-0004806
+Tolera Degefa - SH-IT-0111491
 
 ## Getting Started
 
